@@ -1,5 +1,5 @@
 numpy
 pandas
 flask
-
+ipykernel
 -e .
